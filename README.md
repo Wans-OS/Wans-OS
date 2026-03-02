@@ -12,7 +12,7 @@
     <td>
       <img src="https://github-readme-stats.fireline.fun/api?username=Wans-OS&show_icons=true"/> 
       <br/>
-      <h2 align="left" style="display: inline-block;"> &#x1f92b; Github Visitors  <img align="right" src="https://komarev.com/ghpvc/?username=Wans-OS" /> <img align="right" src="https://profile-counter.glitch.me/Wans-OS/count.svg" /> </h2> 
+      <h2 align="left" style="display: inline-block;"> &#x1f92b; Github Visitors  <img align="right" src="https://profile-counter.deno.dev/Wans-OS/count.svg" /> <img align="right" src="https://profile-counter.deno.dev/Wans-OS/count.svg" /> </h2> 
     </td>
   </tr>
 </table>
