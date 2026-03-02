@@ -4,6 +4,21 @@
 
  - “刚毅木讷近乎仁，巧言令色鲜矣仁。”
 
-# ✌️ Github Stats
+## 📈 Reputation
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=wanswu&show_icons=true)](https://github-readme-stats.vercel.app/api?username=wanswu&show_icons=true)
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.fireline.fun/api/top-langs/?username=Wans-OS&hide=html"></td>
+    <td>
+      <img src="https://github-readme-stats.fireline.fun/api?username=Wans-OS&show_icons=true"/> 
+      <br/>
+      <h2 align="left" style="display: inline-block;"> &#x1f92b; Github Visitors  <img align="right" src="https://komarev.com/ghpvc/?username=Wans-OS" /> <img align="right" src="https://profile-counter.glitch.me/Wans-OS/count.svg" /> </h2> 
+    </td>
+  </tr>
+</table>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wans-OS/Wans-OS/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wans-OS/Wans-OS/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Wans-OS/Wans-OS/output/github-contribution-grid-snake.svg">
+</picture>
